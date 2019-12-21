@@ -1,0 +1,172 @@
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	  4	
+  1	  1	  2	
+  3	  2	  5	
+
+Olusturulan determinant matrisi: 
+  1	  2	  4	
+  1	  1	  2	
+  3	  2	  5	
+  1	  2	  4	
+  1	  1	  2	
+
+ 3x3 Denklemin Ozdegerleri:
+lambda 1: 0	lambda2: 4199040	lambda3: 1182400
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  4	  2	
+  1	 -1	
+
+Olusturulan determinant matrisi: 
+ -4	 -2	
+ -1	  1	
+
+ Denklemin Ozdegerleri:
+lambda 1: -3	lambda2: 6
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  2	  2	
+  5	 -1	
+
+Olusturulan determinant matrisi: 
+ -2	 -2	
+ -5	  1	
+
+ Denklemin Ozdegerleri:
+lambda 1: -11	lambda2: 12
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+ Denklemin Ozdegerleri:
+lambda 1: -1	lambda2: 5
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+ Denklemin Ozdegerleri:
+lambda 1: -1	lambda2: 5
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+ Denklemin Ozdegerleri:
+lambda 1: -1	lambda2: 5
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  2	  3	
+  1	  2	
+
+Olusturulan determinant matrisi: 
+ -2	 -3	
+ -1	 -2	
+
+ Denklemin Ozdegerleri:
+lambda 1: 0	lambda2: 0
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  1	
+ -1	  2	
+
+Olusturulan determinant matrisi: 
+ -1	 -1	
+  1	 -2	
+
+ Denklemin Ozdegerleri:
+lambda 1: -0	lambda2: 3
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  2	  1	
+ -1	  3	
+
+Olusturulan determinant matrisi: 
+ -2	 -1	
+  1	 -3	
+
+ Denklemin Ozdegerleri:
+lambda 1: -2	lambda2: 7
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+ Denklemin Ozdegerleri:
+lambda 1: -1	lambda2: 5
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  3	
+ -2	  2	
+
+Olusturulan determinant matrisi: 
+ -1	 -3	
+  2	 -2	
+
+ Denklemin Ozdegerleri:
+lambda 1: -5	lambda2: 8
+_______________________________________________________________________________
+
+
+OZDEGER Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+ Denklemin Ozdegerleri:
+lambda 1: -1	lambda2: 5
+_______________________________________________________________________________
+

@@ -1,0 +1,152 @@
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+Olusturulan Matris:
+2	-2	
+2	-2	
+
+Olustan Nilpotent Matris:
+0	-2	
+2	-2	
+
+Olustan Nilpotent Matris:
+0	0	
+2	-2	
+
+Olustan Nilpotent Matris:
+0	0	
+0	-2	
+
+Olustan Nilpotent Matris:
+0	0	
+0	0	
+girilen matris nilpotent matristir.
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+Olusturulan Matris:
+2	-2	
+2	-2	
+
+Olustan Nilpotent Matris:
+0	-2	
+2	-2	
+
+Olustan Nilpotent Matris:
+0	0	
+2	-2	
+
+Olustan Nilpotent Matris:
+0	0	
+0	-2	
+
+Olustan Nilpotent Matris:
+0	0	
+0	0	
+
+girilen matris nilpotent matristir.
+
+_________________________________________________________________
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+11	2	
+10	0	
+
+Olustan Nilpotent Matris:
+141	2	
+10	0	
+
+Olustan Nilpotent Matris:
+141	22	
+10	0	
+
+Olustan Nilpotent Matris:
+141	22	
+22	0	
+
+Olustan Nilpotent Matris:
+141	22	
+22	20	
+
+Girilen matris nilpotent matris degildir.
+
+_________________________________________________________________
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+7	-13	
+-15	1	
+
+Olustan Nilpotent Matris:
+244	-13	
+-15	1	
+
+Olustan Nilpotent Matris:
+244	-104	
+-15	1	
+
+Olustan Nilpotent Matris:
+244	-104	
+-104	1	
+
+Olustan Nilpotent Matris:
+244	-104	
+-104	196	
+
+Girilen matris nilpotent matris degildir.
+
+_________________________________________________________________
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+3	12	
+-2	-5	
+
+Olustan Nilpotent Matris:
+-15	12	
+-2	-5	
+
+Olustan Nilpotent Matris:
+-15	-24	
+-2	-5	
+
+Olustan Nilpotent Matris:
+-15	-24	
+-24	-5	
+
+Olustan Nilpotent Matris:
+-15	-24	
+-24	1	
+
+Girilen matris nilpotent matris degildir.
+
+_________________________________________________________________
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+
+NILPOTENT Fonksiyonu Islemleri: 
+Girilen Matris: 
+12	-5	
+-3	-8	
+
+Olustan Nilpotent Matris:
+159	-5	
+-3	-8	
+
+Olustan Nilpotent Matris:
+159	-20	
+-3	-8	
+
+Olustan Nilpotent Matris:
+159	-20	
+-20	-8	
+
+Olustan Nilpotent Matris:
+159	-20	
+-20	79	
+
+Girilen matris nilpotent matris degildir.
+
+_________________________________________________________________

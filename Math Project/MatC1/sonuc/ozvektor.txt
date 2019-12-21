@@ -1,0 +1,78 @@
+
+OZVEKTOR Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+Denklemden Lambda Cikartilmis Matris:
+2	2	
+4	4	
+
+Ozvektor Denklemi:
+2x1 + 2x2=0
+
+2x1 = -2x2
+
+Denklemin Sadelesmis Hali:
+1 = -1
+
+ Denklemin Ozvektorleri:
+Ozvektor 1: 1	Ozvektor2: -1
+_______________________________________________________________________________
+
+
+OZVEKTOR Fonksiyonu Islemleri: 
+Girilen Matris: 
+  1	  2	
+  4	  3	
+
+Olusturulan determinant matrisi: 
+ -1	 -2	
+ -4	 -3	
+
+Denklemden Lambda Cikartilmis Matris:
+2	2	
+4	4	
+
+Ozvektor Denklemi:
+2x1 + 2x2=0
+
+2x1 = -2x2
+
+Denklemin Sadelesmis Hali:
+1 = -1
+
+ Denklemin Ozvektorleri:
+Ozvektor 1(X1): 1	Ozvektor2(X2): -1
+_______________________________________________________________________________
+
+
+OZVEKTOR Fonksiyonu Islemleri: 
+Girilen Matris: 
+  2	  5	
+  1	  4	
+
+Olusturulan determinant matrisi: 
+ -2	 -5	
+ -1	 -4	
+
+Denklemden Lambda Cikartilmis Matris:
+-1	5	
+1	1	
+
+Ozvektor Denklemi:
+-1x1 + 5x2=0
+
+-1x1 = -5x2
+
+Denklemin Sadelesmis Hali:
+-1 = -5
+
+ Denklemin Ozvektorleri:
+Ozvektor 1(X1): -1	Ozvektor2(X2): -5
+_______________________________________________________________________________
+

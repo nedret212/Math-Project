@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1507577060 source:c:\users\ned\desktop\prolab1 proje1\projeler\matc1\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
+1507577194 source:d:\mühendislik\2017 - 2018\güz dönemi\prolab 1\proje 1\prolab1 proje1\150202114 nedret gegeoðlu - 140202121 selda yapal\matc1\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+
